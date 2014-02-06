@@ -1,0 +1,27 @@
+[
+    {
+        "caption": "Remote PHPUnit: Run all",
+        "command": "remote_php_unit"
+    },
+    {
+        "caption": "Remote PHPUnit: Run unit tests",
+        "command": "remote_php_unit",
+        "args": {
+            "type": "unit"
+        }
+    },
+    {
+        "caption": "Remote PHPUnit: Run functional tests",
+        "command": "remote_php_unit",
+        "args": {
+            "type": "functional"
+        }
+    },
+    {
+        "caption": "Remote PHPUnit: Run tests in current file",
+        "command": "remote_php_unit",
+        "args": {
+            "type": "current_file"
+        }
+    }
+]

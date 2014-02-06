@@ -1,0 +1,8 @@
+{
+	"phpunit_path": "/usr/bin/phpunit",
+    "phpunit_xml_path": "app/",
+    "root_folder": "/vagrant",
+    "server_user": "vagrant",
+    "server_address": "",
+    "ssh_key": ""
+}
